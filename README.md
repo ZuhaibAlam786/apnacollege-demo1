@@ -1,4 +1,4 @@
 # apnacollege-demo1
 This is my first Git Repository
 <br>
-Author - Zuhaib Alam
+Author - Zuhaib Alam (DPS)
